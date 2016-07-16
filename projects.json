@@ -1,0 +1,28 @@
+{
+    "data":[    
+        {
+            "title" :"Isometric perspective mock-up-2",
+            "img": "img/tablet-1.png",
+            "category": "web",
+            "imgalt": "tablet-5"
+        },
+        {
+            "title":"Time zone app ui-2",
+            "img": "img/tablet-2.png",
+            "category": "apps",
+            "imgalt": "tablet-6"
+        },
+        {
+            "title":"Viro media players UI-2",
+            "img": "img/tablet-3.png",
+            "category": "web",
+            "imgalt": "tablet-7"
+        },
+        {
+            "title":"Blog/Magazine flat UI kit-2",
+            "img": "./img/tablet-4.png",
+            "category": "icons",
+            "imgalt": "tablet-8"
+        }
+    ]   
+}
