@@ -1,4 +1,4 @@
-$(document).ready(function () {
+window.onload = (function () {
     
     // isotope 
     //Activate isotope in container
